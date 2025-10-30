@@ -19,6 +19,7 @@ Currently improving my skills in both front-end and back-end architecture, while
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=fff)
 
 ###  Tools & Others
+[![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)](#)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff)
