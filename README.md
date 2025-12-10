@@ -1,7 +1,7 @@
 # 👨‍💻 Íúri Alexandre Gonçalves Lameira
 
 I'm a **Web Development & Multimedia Student** at the *Polytechnic University of Cávado and Ave (IPCA)*,with hands-on experience in building full-stack web applications.
-Currently improving my skills in both front-end and back-end architecture, while learning best practices.
+Currently learning TypeScript and improving my skills in both frontend and backend architeture.
 Passionate about gym,chess and tech.
 
 📫 **Reach me at:** [iurilameira2017@gmail.com](mailto:iurilameira2017@gmail.com)
